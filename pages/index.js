@@ -193,16 +193,3 @@ export default function Home ({}) {
     </div>
   )
 }
-
-export async function getStaticProps(context) {
-  const res = await fetch("http://localhost:3000/api/hello");
-    const json = await res.json();
-    return {
-      props: {
-        data: json,
-        
-        
-      }
-    }
-    
-}

@@ -15,7 +15,7 @@ const StyledDiv = styled.div`
 
 const Header = () => {
     return (
-        <a href='https://rocket-league.com/trades/Jadeite' target='_blank'>
+        <a href='https://rocket-league.com/trades/Jadeite' target='_blank' rel="noreferrer">
         <StyledDiv>
         </StyledDiv>
         </a>
