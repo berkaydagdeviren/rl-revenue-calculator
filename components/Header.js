@@ -5,7 +5,7 @@ const StyledDiv = styled.div`
     justify-content: center;
     align-items: center;
     background-color: black;
-    background: url('/kapak.jpg');
+    background: url('https://i.imgur.com/tN70lvj.jpg');
     height: 350px;
     width: 100%;
     background-size: cover;
