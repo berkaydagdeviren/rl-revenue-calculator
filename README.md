@@ -11,3 +11,4 @@ My best friend does daily trades on Rocket League and he was tracking them on a 
 -> Make website responsive. (Right now unusable for mobile and not all so great exp on higher res) <br/>
 -> Add an auth system and let everyone get their own database. (Right now only my friend can use this because the database is shared). <br/>
 -> Add data visuliation -using d3js?- that shows monthly or weekly profits. <br/>
+-> Add a delete button for each item in CreditLog; so falsely put data can be deleted.
