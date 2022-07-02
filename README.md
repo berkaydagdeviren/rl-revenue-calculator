@@ -1,34 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+rl-revenue-calculator.vercel.app
 
-## Getting Started
+## Why this project exists?
 
-First, run the development server:
+My best friend does daily trades on Rocket League and he was tracking them on a paper... Not all serious, we came up with this idea. And after some days the first prototype was ready to use!(Which is this one.)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Current Bugs
+--> When a number smaller than 10 put in Buy, instead of a minues value, the outcome is positive. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Future plans 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-> Make website responsive. (Right now unusable for mobile and not all so great exp on higher res)
+-> Add an auth system and let everyone get their own database. (Right now only my friend can use this because the database is shared).
+-> Add data visuliation -using d3js?- that shows monthly or weekly profits.
