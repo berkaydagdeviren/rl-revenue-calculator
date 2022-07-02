@@ -1,4 +1,4 @@
-rl-revenue-calculator.vercel.app
+[Project Website](rl-revenue-calculator.vercel.app)
 
 ## Why this project exists?
 
