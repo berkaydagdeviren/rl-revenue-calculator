@@ -8,7 +8,6 @@ My best friend does daily trades on Rocket League and he was tracking them on a 
 --> When a number smaller than 10 put in Buy, instead of a minues value, the outcome is positive. 
 
 ## Future plans 
-
--> Make website responsive. (Right now unusable for mobile and not all so great exp on higher res)
--> Add an auth system and let everyone get their own database. (Right now only my friend can use this because the database is shared).
--> Add data visuliation -using d3js?- that shows monthly or weekly profits.
+-> Make website responsive. (Right now unusable for mobile and not all so great exp on higher res) <br/>
+-> Add an auth system and let everyone get their own database. (Right now only my friend can use this because the database is shared). <br/>
+-> Add data visuliation -using d3js?- that shows monthly or weekly profits. <br/>
